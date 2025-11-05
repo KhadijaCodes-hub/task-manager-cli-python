@@ -39,7 +39,7 @@ cd task-manager-cli-python
 Run the program:
 
 ```bash
-python task_manager_app.py
+python task_manager.py
 ```
 
 ---
@@ -97,7 +97,7 @@ Closing the program...
 ```
 📁 task-manager-app
 │
-├── task_manager_app.py    # Main Python program
+├── task_manager.py    # Main Python program
 └── README.md          # Documentation
 ```
 
