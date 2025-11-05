@@ -33,13 +33,13 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/task-manager-cli-python.git
-cd task-manager-app
+cd task-manager-cli-python
 ````
 
 Run the program:
 
 ```bash
-python task_manager.py
+python task_manager_app.py
 ```
 
 ---
@@ -97,7 +97,7 @@ Closing the program...
 ```
 📁 task-manager-app
 │
-├── task_manager.py    # Main Python program
+├── task_manager_app.py    # Main Python program
 └── README.md          # Documentation
 ```
 
